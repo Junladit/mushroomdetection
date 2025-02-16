@@ -1,0 +1,5 @@
+train: C:/Users/junladit/Desktop/yolotrain/dataset/train/images
+val: C:/Users/junladit/Desktop/yolotrain/dataset/valid/images
+test: C:/Users/junladit/Desktop/yolotrain/dataset/test/images
+nc: 3
+names: ['big', 'nfound', 'small']
